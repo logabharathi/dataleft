@@ -1,2 +1,9 @@
 # dataleft
-Wants to collect a random person in help
+
+*Problem description
+
+
+*User wants/needs
+
+
+*Sprint decomposition
